@@ -6,3 +6,4 @@ Chef Conf:
 ----------
 
 - Adding comments
+- Test added
