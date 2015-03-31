@@ -7,3 +7,4 @@ Chef Conf:
 
 - Adding comments
 - Test added
+- Added Food critic
